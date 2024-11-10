@@ -1,4 +1,4 @@
-import { IMAGES_MANIFEST } from "next/dist/shared/lib/constants";
+
 import Image from "next/image";
 import Body from "@/components/Body"
 import Intro from "@/components/Intro";
